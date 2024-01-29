@@ -5,11 +5,13 @@ This repository contains a Flask web application for predicting diamond prices. 
 ## Environment Setup
 
 To set up the project environment, follow these steps:
-'''bash
+
 1. Create a new conda environment:
+```bash
 conda create -p venv python==3.9 -y
 
 3. Activate the conda evnvironment
+```bash
 conda activate venv/
 
 
