@@ -11,7 +11,7 @@ To set up the project environment, follow these steps:
 conda create -p venv python==3.9 -y
 ```
 
-3. Activate the conda evnvironment
+2. Activate the conda evnvironment
 ```bash
 conda activate venv/
 ```
