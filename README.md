@@ -9,10 +9,12 @@ To set up the project environment, follow these steps:
 1. Create a new conda environment:
 ```bash
 conda create -p venv python==3.9 -y
+```
 
 3. Activate the conda evnvironment
 ```bash
 conda activate venv/
+```
 
 
 ## Dataset 
@@ -20,8 +22,9 @@ The dataset used for training the model can be downloaded from Kaggle:
 https://www.kaggle.com/datasets/colearninglounge/gemstone-price-prediction
 
 ## Running the Application
-'''bash
+```bash
 python app.py
+```
 
 This will start a local web server. Open a web browser and navigate to http://localhost:5000 to view the application.
 
